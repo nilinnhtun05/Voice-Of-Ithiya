@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CO&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+
+*{
+    font-family: "EB Garamond", serif;
+    background-color: #e5d9f2;
+    --primary-text-color: black;
+}
+
+h1{
+    font-family: "Bona Nova SC", serif;
+    font-size: 2.5rem;
+    text-align: center;
+     margin: 0;
+}
+
+main{
+    font-size: 1.4rem;
+    max-width:40em;
+	padding:5px; margin:0 auto;
+}
+
+p { margin: 5px 0; }
